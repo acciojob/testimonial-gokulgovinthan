@@ -6,12 +6,14 @@
 
 .box1{
 	background-color:white;
+	Border:10px;
 	padding: 20px;
 }
-.author{
+.box1>.author{
 	background-color:white;
 	Text-align: right;
 	font-style: italic;
 	position:relative;
+	border:2px;
 	
 }
