@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+*{   
+	padding: 10px;
+	background-color: #f5f5f5;
+}
+
+.box1{
+	background-color:white;
+	padding: 20px;
+}
+.author{
+	background-color:white;
+	Text-align: right;
+	font-style: italic;
+	position:relative;
+	
+}
